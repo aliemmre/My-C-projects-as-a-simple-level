@@ -1,1 +1,0 @@
-/* baklava.c içeriği */
