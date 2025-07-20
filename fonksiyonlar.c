@@ -1,0 +1,1 @@
+/* fonksiyonlar.c içeriği */

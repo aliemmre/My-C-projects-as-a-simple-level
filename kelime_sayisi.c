@@ -1,0 +1,1 @@
+/* kelime_sayisi.c içeriği */
