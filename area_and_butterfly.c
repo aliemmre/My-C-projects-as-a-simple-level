@@ -1,1 +1,0 @@
-/* area_and_butterfly.c içeriği */
